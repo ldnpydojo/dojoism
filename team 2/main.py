@@ -30,13 +30,14 @@ def main():
     turtle.colormode(255)
 
     percival = turtle.Turtle()
+    percival.color('green', 'green')
     percival.shape("turtle")
     percival.speed(BEAT)
 
     t = 0
     for step in get_steps():
 
-        t += random.random()
+        t += 2*random.random()
         t -= random.random()
 
         color = (int(128 + 127*math.cos(t)),
