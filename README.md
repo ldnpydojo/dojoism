@@ -1,6 +1,7 @@
 # dojoism
 Art Dojo Style
 
+![Drian Monpiet](G._Rasputin.JPG)
 ## Drian Monpiet
 7-2-2781 to 1-2-4491
 
